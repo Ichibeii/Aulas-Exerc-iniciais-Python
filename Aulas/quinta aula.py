@@ -1,4 +1,4 @@
-frase = "leandro e sarado"
+frase = "quero viajar para a coreia do sul"
 print (frase.split())
 print ('-'.join(frase))
 
